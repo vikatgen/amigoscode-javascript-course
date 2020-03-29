@@ -4,7 +4,12 @@
 
 ## Installation
 
-1. [Install node] (https://nodejs.org/en/)
-3. npm install
-4. npm run devserver
-5. Enjoy
+1. [Install node](https://nodejs.org/en/)
+2. npm install
+3. npm run devserver
+4. Enjoy
+
+## Edit (NPM packages)
+
+_if you get alot error messanges then use =>_
+[NPM Error fix - OSX](https://medium.com/flawless-app-stories/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d)
